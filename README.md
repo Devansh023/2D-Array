@@ -5,4 +5,4 @@ Java Matrix
  -Columns
  
 -Enter any particular value of matrix to find their location
-Result: Index location
+-Result: Index location
