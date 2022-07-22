@@ -1,4 +1,4 @@
-#2D-Array
+#MultiDimentional-Array
 Java Matrix 
 -Create or Enter Your Matrix
  -Rows
